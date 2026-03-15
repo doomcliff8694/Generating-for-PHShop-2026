@@ -1,21 +1,41 @@
-MIT License
+ ██████  ███████ ███    ██ ███████ ██████   █████  ████████ ██ ██    ██ ███████     ███████ ██ ██      ██
+██       ██      ████   ██ ██      ██   ██ ██   ██    ██    ██ ██    ██ ██          ██      ██ ██      ██
+██   ███ █████   ██ ██  ██ █████   ██████  ███████    ██    ██ ██    ██ █████       █████   ██ ██      ██
+██    ██ ██      ██  ██ ██ ██      ██   ██ ██   ██    ██    ██  ██  ██  ██          ██      ██ ██      ██
+ ██████  ███████ ██   ████ ███████ ██   ██ ██   ██    ██    ██   ████   ███████     ██      ██ ███████ ███████
 
-Copyright (c) 2026 doomcliff8694
+ ██████  ██████   █████   ██████  ██   ██
+██      ██   ██  ██   ██ ██      ██  ██
+██      ██████   ███████ ██      █████
+██      ██   ██  ██   ██ ██      ██  ██
+ ██████ ██   ██  ██   ██  ██████ ██   ██
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+##########################
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Generative Fill is an Adobe Firefly AI—based tool in Adobe Photoshop that allows you to add, remove, or modify objects in a photo, as well as expand the boundaries of images using text queries (promts). Syntonyms: generative fill, AI fill, neural network retouching. 
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+##########################
+
+DOWNLOAD INFORMATION
+
+###########################
+###########################
+
+LINK FOR DOWNLOAD - https://yagla.tv/ciZ9nWK
+
+ARCHIVE PASSWORD - 2026
+
+###########################
+###########################
+
+Main features and usage examples:
+Deleting objects: Selecting an unnecessary element and automatically filling in the background (without using promt).
+Adding objects: Selecting an area and writing an argument (for example, "add clouds").
+Canvas expansion (Generative Expand): Increasing the size of the image while redrawing the background.
+Background change: Replace the background with another one described in the text query. 
+
+###########################
+
+The tool works automatically, observing the lighting, perspective, and style of the original photo.
+
+###########################
